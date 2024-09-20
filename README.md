@@ -1,4 +1,4 @@
-<h1 align="center"> ¡Muy buen día! soy Fabian Martinez, más conocido como Leo. </h1>
+<h1 align="center"> ¡Muy buen día! Soy Fabian Martinez, más conocido como Leo. </h1>
 
 <hr>
 <h3 align="center"><em> Profesional en lenguas modernas y estudiante de Desarrollo Web Full Stack </em></h3>
